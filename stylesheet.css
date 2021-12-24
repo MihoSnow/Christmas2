@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana;
+}
+
+.main {
+    padding: 10px 10px;
+}
+
+.copy-container h1 {
+    color: aquamarine;
+    font-size: 100px;
+}
+
+.copy-container h2 {
+    color: deepskyblue;
+    font-size: 90px;
+}
+
+.contents-item img {
+    width: 500px;
+    height: 500px;
+}
+
+.contents-item p {
+    font-size: 40px;
+    margin-top: 20px;
+}
