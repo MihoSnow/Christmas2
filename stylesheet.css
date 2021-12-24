@@ -21,6 +21,11 @@ body {
     height: 200px;
 }
 
+.sample {
+    width: 200px;
+    height: 200px;
+}
+
 .contents-item p {
     font-size: 40px;
     margin-top: 20px;
