@@ -16,9 +16,9 @@ body {
     font-size: 90px;
 }
 
-.sample {
-    width: 200px;
-    height: 200px;
+.contents-item img {
+    width: 80%;
+    height: 80%;
 }
 
 .contents-item p {
