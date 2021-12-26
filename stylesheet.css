@@ -40,12 +40,12 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 75px;
     color: deepskyblue;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .contents-item p1 {
     position: absolute;
-    top: 400px;
+    top: 350px;
     left: 80px;
     padding: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -56,7 +56,7 @@
 
 .contents-item p2 {
     position: absolute;
-    top: 450px;
+    top: 400px;
     left: 80px;
     padding: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
