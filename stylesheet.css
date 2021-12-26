@@ -16,12 +16,33 @@ body {
     font-size: 90px;
 }
 
+.contents-item {
+    position: relative;
+}
+
 .contents-item img {
     width: 80%;
     height: 80%;
 }
 
+.contents-item h1 {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 80px;
+    color: cyan;
+    margin-top: 20px;
+}
+
 .contents-item p {
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    padding: 10px;
+    font-family: verdana;
     font-size: 40px;
+    color: aquamarine;
     margin-top: 20px;
 }
