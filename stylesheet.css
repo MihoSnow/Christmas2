@@ -26,7 +26,7 @@
     top: 80px;
     left: 80px;
     padding: 10px;
-    font-family: monospace;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 80px;
     color: cyan;
     margin-top: 20px;
@@ -43,7 +43,7 @@
     margin-top: 20px;
 }
 
-.contents-item p2 {
+.contents-item p1 {
     position: absolute;
     top: 350px;
     left: 80px;
@@ -54,9 +54,9 @@
     margin-top: 10px;
 }
 
-.contents-item p {
+.contents-item p2 {
     position: absolute;
-    top: 410px;
+    top: 40px;
     left: 80px;
     padding: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
